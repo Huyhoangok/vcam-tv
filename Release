@@ -1,0 +1,9 @@
+Origin: Huyhoangok Repo
+Label: Huyhoangok Vcam
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Repo Sileo của Huyhoangok
+Icon: https://huyhoangok.github.io/vcam-tv/assets/logo.png
