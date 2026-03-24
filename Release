@@ -5,5 +5,17 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Repo Sileo của Huyhoangok
+Description: Repo Sileo cua Huyhoangok
 Icon: https://huyhoangok.github.io/vcam-tv/assets/logo.png
+MD5Sum:
+ da7e1523c66826b488999f8dfa7bed8f 1309 Packages
+ ca6649356694316bba96b79295c72488 707 Packages.gz
+ 554c778e7a9cd0d8e18de934c4b6d4eb 865 Packages.bz2
+SHA1:
+ 34a4fbedf7b08873c355aa13f43e01586b57dc38 1309 Packages
+ 215a90200d007b160fe50af49d0a9f1024ca9b90 707 Packages.gz
+ 9b62bc8eb3b73c8a573e6594eef614935baa644f 865 Packages.bz2
+SHA256:
+ 68befb4f61db7d6064913815ce9e9aaada521a9dfacdcc77bb5c6136f8d5894e 1309 Packages
+ ba568ee92998d5d529930a1cea2debc32666a5c4e6d341c77bc4ec9f68f74ea3 707 Packages.gz
+ 812754ca912175121a209935c918d32a90435fd12778a83631219dec90a9b80e 865 Packages.bz2
